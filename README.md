@@ -26,20 +26,6 @@ Output from script will appear in remix terminal.
 Please note, require/import is supported in a limited manner for Remix supported modules.
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
-# Append 1
-First addition: small text to start Builder verification.
-
-# Append 2
-Second note: adding more minor edits.
-
-# Append 3
-Third update: experimenting with small edits for verification.
-
-# Append 4
-Fourth note: keeping the file alive with minor changes.
-
-# Append 5
-Fifth addition: another small text for Builder task.
 
 # Append 6
 Sixth update: just some harmless text appended.
