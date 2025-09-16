@@ -29,3 +29,5 @@ For unsupported modules, an error like this will be thrown: '<module_name> modul
 # Append 8
 Eighth addition: slight variation to ensure 10 commits.
 
+# Append 9
+Ninth note: almost there, minor edit for commit count.
